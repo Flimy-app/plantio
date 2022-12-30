@@ -1,0 +1,132 @@
+
+body {
+font-family: monospace;
+}
+.bodybody{
+    background: url('../images/plantchatbg.jpg') center center/cover no-repeat ;
+    background-attachment: fixed;
+    /* background-position: absolute; */
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    min-height: 100vh;
+}
+.boxednobox{
+    display: flex;
+    justify-content: center;
+}
+.planty-chatbot {
+background-color: #FFF6BF;
+color: black;
+display: inline-block;
+font-size: 2em;
+margin: 0;
+padding: 10px;
+border-radius: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+#chatbox {
+/* margin-left: auto;
+margin-right: auto; */
+width: 100%;
+margin-top: 25px;
+margin-bottom: 150px;
+}
+#userInput {
+display:flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+margin-top: 60px;
+}
+#textInput {
+width: 50%;
+border: 3px solid black;
+font-family: monospace;
+font-size: 17px;
+padding-left: 5px;
+padding-right:5px;
+border-radius: 15px;
+font-family: 'Nunito';
+font-weight: 1000;
+}
+.userText {
+color: black;
+font-family: monospace;
+font-size: 17px;
+text-align: right;
+line-height: 30px;
+margin-bottom: 20px;
+margin-top: 20px;
+}
+.userText span {
+background-color: #A5F1E9;
+padding: 10px;
+border-radius: 10px;
+/* border:solid #FFEEAF;
+border-width:2px 2px 2px 2px; */
+font-family: 'Nunito';
+font-weight: 1000;
+}
+.botText {
+color: black;
+font-family: monospace;
+font-size: 17px;
+text-align: left;
+line-height: 30px;
+margin-bottom: 5px;
+}
+.botText span {
+background-color: #7FBCD2;
+padding: 4px;
+border-radius: 10px;
+/* border:solid #FFEEAF;
+border-width:2px 2px 2px 2px; */
+font-family: 'Nunito';
+font-weight: 1000;
+}
+#tidbit {
+position: absolute;
+bottom: 0;
+right: 0;
+width: 300px;
+}
+.boxed {
+/* margin-left: auto;
+margin-right: auto; */
+background-color: rgba(255, 255, 255, 0.8);;
+width: 35%;
+margin-top: 60px;
+border: 1px solid green;
+border-radius: 40px;
+}
+.box {
+border: 2px solid black;
+}
+#overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+  }
+  .overlay-box{
+    background-color: white;
+    width: 10%;
+    height: 10%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+  }

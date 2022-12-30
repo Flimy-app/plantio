@@ -1,0 +1,602 @@
+[
+{ "data" : "Rekomendasi tanaman hias indoor"
+},
+{ "data" : "Rekomendasi tanaman hias outdoor"
+},
+{ "data" : "Rekomendasi tanaman hias berdasarkan harga termurah"
+},
+{ "data" : "Rekomendasi tanaman hias bunga"
+},
+{ "data" : "Rekomendasi tanaman hias daun"
+},
+{ "data" : "Rekomendasi tanaman hias akar bonsai"
+},
+{ "data" : "Rekomendasi tanaman hias berdasarkan harga termahal"
+},
+{ "data" : "Rekomendasi tanaman hias yang mudah dirawat"
+},
+{ "data" : "Rekomendasi tanaman hias yang tahan panas matahari"
+},
+{ "data" : "Rekomendasi tanaman hias yang hidup di air"
+},
+{ "data" : "Rekomendasi tanaman hias buah"
+},
+{ "data" : "Rekomendasi tanaman hias untuk daerah perkotaan"
+},
+{ "data" : "Rekomendasi tanaman hias untuk halaman rumah"
+},
+{ "data" : "Apa itu tanaman hias bunga"
+},
+{ "data" : "Apa itu tanaman hias daun"
+},
+{ "data" : "Apa itu tanaman hias pohon"
+},
+{ "data" : "Apa itu tanaman hias buah"
+},
+{ "data" : "Apa itu tanaman hias akar"
+},
+{ "data" : "Rekomendasi tanaman hias di daerah tropis"
+},
+{ "data" : "Rekomendasi bunga di daerah tropis"
+},
+{ "data" : "Apa jenis-jenis tanaman hias"
+},
+{ "data" : "Darimana asal tanaman aglonema"
+},
+{ "data" : "Darimana asal nama aglonema"
+},
+{ "data" : "Berapa harga tanaman aglonema"
+},
+{ "data" : "Manfaat lidah buaya"
+},
+{ "data" : "Manfaat lidah mertua"
+},
+{ "data" : "Bagaimana cara lidah mertua mencegah kanker"
+},
+{ "data" : "Bagaimana cara lidah buaya mempercepat penyembuhan luka"
+},
+{ "data" : "Rekomendasi tanaman hias dalam ruangan yang bermanfaat untuk kesehatan"
+},
+{ "data" : "Manfaat sirih gading untuk kesehatan"
+},
+{ "data" : "Manfaat english ivy untuk kesehatan"
+},
+{ "data" : "Manfaat peace lily sebagai tanaman hias"
+},
+{ "data" : "Manfaat rosemary sebagai tanaman hias"
+},
+{ "data" : "Manfaat lavender sebagai tanaman hias"
+},
+{ "data" : "Rekomendasi tanaman hias untuk pemula"
+},
+{ "data" : "Jenis-jenis monstera"
+},
+{ "data" : "Jenis-jenis mawar"
+},
+{ "data" : "Jenis-jenis aglonema"
+},
+{ "data" : "Jenis-jenis lidah mertua"
+},
+{ "data" : "Jenis-jenis lidah buaya"
+},
+{ "data" : "Jenis-jenis teratai"
+},
+{ "data" : "Jenis-jenis lavender"
+},
+{ "data" : "Jenis-jenis keladi"
+},
+{ "data" : "Jenis-jenis lily"
+},
+{ "data" : "Jenis-jenis kaktus mini"
+},
+{ "data" : "Jenis-jenis melati paling populer"
+},
+{ "data" : "Berapa jenis melati di seluruh dunia"
+},
+{ "data" : "Berapa jenis mawar di seluruh dunia"
+},
+{ "data" : "Berapa jenis anggrek di seluruh dunia"
+},
+{ "data" : "Jenis anggrek terpopuler"
+},
+{ "data" : "Berapa jenis lidah buaya yang dibudidayakan secara komersil"
+},
+{ "data" : "Tanaman hias langka dan menarik untuk dikoleksi"
+},
+{ "data" : "Darimana asal bunga bougenville"
+},
+{ "data" : "Kenapa bunga bougenville juga disebut bunga kertas"
+},
+{ "data" : "Apa manfaat bunga bougenville"
+},
+{ "data" : "Darimana asal tanaman lidah buaya"
+},
+{ "data" : "Apa nama ilmiah dari tanaman lidah buaya"
+},
+{ "data" : "Berapa umumnya tinggi dari tanaman mawar"
+},
+{ "data" : "Apa golongan mawar taman secara umum"
+},
+{ "data" : "Apa itu wild rose / mawar liar"
+},
+{ "data" : "Apa itu old garden rose / mawar taman kuno"
+},
+{ "data" : "Apa itu modern garden rose / mawar taman modern"
+},
+{ "data" : "Berapakah jenis aglaonema"
+},
+{ "data" : "Darimana asal tanaman aglaonema"
+},
+{ "data" : "Dimanakah habitat asli aglaonema"
+},
+{ "data" : "Aglaonema biasanya dikenal dengan nama"
+},
+{ "data" : "Apa manfaat cocor bebek"
+},
+{ "data" : "Bagaimana cara cocor bebek mengatasi jerawat dan bekasnya"
+},
+{ "data" : "Bagaimana cara cocor bebek mengatasi menjaga kesehatan pencernaan"
+},
+{ "data" : "Bagaimana cara cocor bebek meringankan sakit gigi"
+},
+{ "data" : "Bagaimana cara cocor bebek bereproduksi"
+},
+{ "data" : "Darimana asal cocor bebek"
+},
+{ "data" : "Berapa jumlah spesies suplir"
+},
+{ "data" : "Apa manfaat suplir"
+},
+{ "data" : "Apa kata jamak kaktus"
+},
+{ "data" : "Dari mana asal kaktus"
+},
+{ "data" : "Dari mana asal nama kaktus"
+},
+{ "data" : "Dimana tempat hidup kaktus"
+},
+{ "data" : "Apa itu tanaman peace lily"
+},
+{ "data" : "Apa itu tanaman aglaonema"
+},
+{ "data" : "Apa itu tanaman lidah mertua"
+},
+{ "data" : "Apa itu tanaman lidah buaya"
+},
+{ "data" : "Apa itu tanaman rosemary"
+},
+{ "data" : "Apa itu tanaman serai"
+},
+{ "data" : "Apa itu tanaman kaktus"
+},
+{ "data" : "Apa itu tanaman siklok"
+},
+{ "data" : "Apa itu tanaman keladi"
+},
+{ "data" : "Apa itu tanaman cemara"
+},
+{ "data" : "Apa itu tanaman seroja"
+},
+{ "data" : "Apa itu tanaman mawar"
+},
+{ "data" : "Apa itu tanaman agave"
+},
+{ "data" : "Apa manfaat tanaman agave"
+},
+{ "data" : "Jenis agave"
+},
+{ "data" : "Nama lain tanaman agave"
+},
+{ "data" : "Jenis bambu hias "
+},
+{ "data" : "Darimana asal agave"
+},
+{ "data" : "Nama ilmiah dari bambu kuning"
+},
+{ "data" : "Ciri ciri bambu kuning "
+},
+{ "data" : "Dimana biasanya bambu kuning hidup"
+},
+{ "data" : "Bagaimana cara memperbanyak bambu kuning"
+},
+{ "data" : "Bagaimana cara termudah memperbanyak bambu kuning"
+},
+{ "data" : "Apa manfaat dari bambu kuning"
+},
+{ "data" : "Apa arti bunga bakung"
+},
+{ "data" : "Nama ilmiah dari bunga bakung"
+},
+{ "data" : "Berapa jenis dari bunga bakung"
+},
+{ "data" : "Nama lain dari bunga hortensia"
+},
+{ "data" : "Darimana asal bunga hortensia"
+},
+{ "data" : "Apa nama bunga hortensia dalam bahasa melayu"
+},
+{ "data" : "Apa nama bunga hortensia di bali"
+},
+{ "data" : "Apa nama bunga hortensia di sulawesi selatan"
+},
+{ "data" : "Apa warna bunga hortensia jika ditanam di tanah dengan ph asam"
+},
+{ "data" : "Apa warna bunga hortensia jika ditanam di tanah dengan ph normal"
+},
+{ "data" : "Apa warna bunga hortensia jika ditanam di tanah dengan ph basa"
+},
+{ "data" : "Apa arti dari bunga hortensia"
+},
+{ "data" : "Apa makna atau simbol dari bunga krisan"
+},
+{ "data" : "Apa itu bunga matahari"
+},
+{ "data" : "Apa sebutan bunga matahari bagi orang prancis"
+},
+{ "data" : "Berapa tinggi bunga matahari pada umumnya"
+},
+{ "data" : "Berapa kelompok bunga matahari yang dibedakan berdasarkan kegunaannya"
+},
+{ "data" : "Apa saja kelompok bunga matahari yang dibedakan berdasarkan kegunaannya"
+},
+{ "data" : "Pada ph berapa tanaman bunga matahari akan tumbuh secara maksimal"
+},
+{ "data" : "Pada suhu berapa tanaman bunga matahari akan tumbuh secara maksimal"
+},
+{ "data" : "Pencahayaan seperti apa yang diperlukan oleh tanaman bunga matahari"
+},
+{ "data" : "Tanah jenis apa yang disukai oleh tanaman bunga matahari"
+},
+{ "data" : "Suasana seperti apa yang disukai oleh tanaman bunga matahari"
+},
+{ "data" : "Darimana asal tanaman bunga matahari"
+},
+{ "data" : "Apa nama ilmiah tanaman bunga matahari"
+},
+{ "data" : "Berapa spesies bunga matahari atau genus helianthus"
+},
+{ "data" : "Jenis bunga matahari paling populer"
+},
+{ "data" : "Manfaat bunga matahari "
+},
+{ "data" : "Dimana tanaman hoya tumbuh"
+},
+{ "data" : "Apa nama ilmiah tanaman hoya"
+},
+{ "data" : "Apa itu tanaman herbras"
+},
+{ "data" : "Dimana tanaman herbras ditemukan"
+},
+{ "data" : "Berapa spesies herbras di dunia"
+},
+{ "data" : "Pada tahun berapa herbras mulai dibudidayakan di inggris"
+},
+{ "data" : "Apa manfaat tanaman herbras"
+},
+{ "data" : "Apa nama ilmiah tanaman herbras"
+},
+{ "data" : "Apa itu tanaman hanjuang"
+},
+{ "data" : "Apa kegunaan tanaman hanjuang"
+},
+{ "data" : "Apa makna tanaman hanjuang dalam masyarakat sunda, jawa, serta bali"
+},
+{ "data" : "Apa itu tanaman miana"
+},
+{ "data" : "Apa khasiat dari daun miana"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang batak"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang palembang"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang sunda"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang jawa tengah"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang bugis"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang toraja"
+},
+{ "data" : "Apa nama lain dari tanaman miana menurut orang minahasa"
+},
+{ "data" : "Apa nama ilmiah dari tanaman miana"
+},
+{ "data" : "Apa spesies paling umum dari kala lili"
+},
+{ "data" : "Apa kegunaan dari kala lili"
+},
+{ "data" : "Darimana asal tanaman kastuba"
+},
+{ "data" : "Berapa tinggi dari tanaman kastuba"
+},
+{ "data" : "Apa sebutan dari tanaman kastuba dalam bahasa spanyol"
+},
+{ "data" : "Tanaman kastuba dianggap sebagai lambang apa oleh suku aztek"
+},
+{ "data" : "Apa itu tanaman kecombrang"
+},
+{ "data" : "Apa nama tanaman kecombrang dalam bahasa sunda"
+},
+{ "data" : "Apa nama tanaman kecombrang di daerah medan"
+},
+{ "data" : "Apa nama tanaman kecombrang di daerah aceh"
+},
+{ "data" : "Apa nama tanaman kecombrang di daerah tapanuli"
+},
+{ "data" : "Apa nama tanaman kecombrang bagi orang karo"
+},
+{ "data" : "Apa kegunaan atau manfaat dari kecombrang "
+},
+{ "data" : "Apa manfaat kecombrang bagi kesehatan tubuh"
+},
+{ "data" : "Rekomendasi tanaman herbal yang bisa ditanam di dapur"
+},
+{ "data" : "Rekomendasi tanaman hias yang cocok ditanam di dapur"
+},
+{ "data" : "Apa itu tanaman kembang sepatu"
+},
+{ "data" : "Apa manfaat tanaman kembang sepatu"
+},
+{ "data" : "Apa manfaat kembang telang "
+},
+{ "data" : "Apa manfaat kenikir"
+},
+{ "data" : "Apa nama ilmiah tanaman kuping gajah"
+},
+{ "data" : "Ada berapa jenis anggota anthurium"
+},
+{ "data" : "Termasuk jenis apa tanaman anthurium"
+},
+{ "data" : "Bagaimana cara hidup tanaman anthurium di alam"
+},
+{ "data" : "Apa daya tarik utama dari anthurium"
+},
+{ "data" : "Dibedakan menjadi jenis apa saja anthurium"
+},
+{ "data" : "Apa kegunaan monstera"
+},
+{ "data" : "Apa nama latin tanaman pacar air"
+},
+{ "data" : "Darimana asal tanaman pacar air"
+},
+{ "data" : "Kapan tanaman pacar air diperkenalkan ke amerika"
+},
+{ "data" : "Seberapa tinggi tanaman pacar air"
+},
+{ "data" : "Apakah tanaman pacar air disukai lebah ataupun serangga lain"
+},
+{ "data" : "Bagaimana cara mengembangbiakkan tanaman pacar air"
+},
+{ "data" : "Apa kegunaan tanaman pacar air"
+},
+{ "data" : "Apa itu tanaman pacing"
+},
+{ "data" : "Apa nama latin tanaman pacing"
+},
+{ "data" : "Dimana terdapat tanaman pacing"
+},
+{ "data" : "Bagaimana cara mengembangbiakkan tanaman pacing"
+},
+{ "data" : "Apa nama lain dari tanaman pakis haji"
+},
+{ "data" : "Apa itu tanaman pakis haji"
+},
+{ "data" : "Apa nama latin pakishaji - pakishajian"
+},
+{ "data" : "Apa itu tanaman pandan"
+},
+{ "data" : "Apa ciri - ciri dari anggota tanaman pandan"
+},
+{ "data" : "Ada berapa jenis tanaman pandan di seluruh dunia"
+},
+{ "data" : "Contoh jenis - jenis tanaman pandan"
+},
+{ "data" : "Apa itu tanaman sirih"
+},
+{ "data" : "Apa nama tanaman sirih dalam bahasa jawa"
+},
+{ "data" : "Apa nama tanaman sirih dalam bahasa melayu"
+},
+{ "data" : "Apa nama tanaman sirih dalam bahasa ternate"
+},
+{ "data" : "Apa nama tanaman sirih dalam bahasa bali"
+},
+{ "data" : "Apa nama tanaman sirih dalam bahasa ambon"
+},
+{ "data" : "Apa kegunaan tanaman sirih"
+},
+{ "data" : "Didaerah manakah tanaman sirih dianggap tanaman khas"
+},
+{ "data" : "Seberapa tinggi tanaman sirih dapat merambat"
+},
+{ "data" : "Apa itu tanaman teratai"
+},
+{ "data" : "Apa nama tanaman teratai dalam bahasa inggris"
+},
+{ "data" : "Ada berapa spesies tanaman teratai"
+},
+{ "data" : "Darimana asal teratai yang tumbuh di daerah tropis"
+},
+{ "data" : "Apa kegunaan teratai"
+},
+{ "data" : "Apa keunikan dari teratai"
+},
+{ "data" : "Apa itu suplir"
+},
+{ "data" : "Apa itu tanaman kantong semar"
+},
+{ "data" : "Berapa banyak species dari tanaman kantong semar di seluruh dunia"
+},
+{ "data" : "Apa kegunaan kantong dari tanaman kantong semar"
+},
+{ "data" : "Berapa macam kantong yang dimiliki tanaman kantong semar"
+},
+{ "data" : "Apa itu kantong atas"
+},
+{ "data" : "Apa itu kantong bawah"
+},
+{ "data" : "Apa itu kantong roset"
+},
+{ "data" : "Apa nama ilmiah tanaman kantong semar"
+},
+{ "data" : "Apa itu tanaman talas"
+},
+{ "data" : "Dari mana tanaman talas berasal"
+},
+{ "data" : "Dari suku mana asal tanaman talas"
+},
+{ "data" : "Apa manfaat talas"
+},
+{ "data" : "Apa itu tanaman tahi ayam (tembelekan)"
+},
+{ "data" : "Di ketinggian berapa tanaman tahi ayam tumbuh"
+},
+{ "data" : "Apa itu tanaman serunai (krisan)"
+},
+{ "data" : "Dari suku apakah tanaman serunai berasal"
+},
+{ "data" : "Apa arti bunga serunai atau krisan putih"
+},
+{ "data" : "Apa arti bunga serunai atau krisan pink atau merah muda"
+},
+{ "data" : "Apa arti bunga serunai atau krisan kuning "
+},
+{ "data" : "Apa arti bunga serunai atau krisan ungu"
+},
+{ "data" : "Dari mana asal tanaman pentas"
+},
+{ "data" : "Berapa rentang distribusi tanaman pentas"
+},
+{ "data" : "Apa kegunaan tanaman pentas"
+},
+{ "data" : "Nama lain dari tanaman petrea"
+},
+{ "data" : "Nama latin dari tanaman petrea"
+},
+{ "data" : "Asal daerah tanaman petrea"
+},
+{ "data" : "Apa itu tanaman petrea"
+},
+{ "data" : "Seberapa tinggi tanaman petrea dapat merambat"
+},
+{ "data" : "Apa kegunaan tanaman petrea"
+},
+{ "data" : "Dari mana asal tanaman bunga air mancur"
+},
+{ "data" : "Apa kegunaan tanaman bunga air mancur"
+},
+{ "data" : "Dari mana asal tanaman dolar rambat"
+},
+{ "data" : "Apa kegunaan tanaman dolar rambat "
+},
+{ "data" : "Dari mana asal tanaman ponix"
+},
+{ "data" : "Apa itu tanaman polyscias"
+},
+{ "data" : "Apa manfaat tanaman polyscias"
+},
+{ "data" : "Bagaimana pembibitan tanaman polyscias"
+},
+{ "data" : "Apa itu pule pandak"
+},
+{ "data" : "Darimana asal tanaman pule pandak"
+},
+{ "data" : "Apa nama ilmiah pule pandak"
+},
+{ "data" : "Seberapa tinggi tanaman pule pandak dapat tumbuh"
+},
+{ "data" : "Apa fungsi dari tanaman pule pandak"
+},
+{ "data" : "Dari mana asal tanaman scindapsus"
+},
+{ "data" : "Apa itu tanaman sedap malam"
+},
+{ "data" : "Darimana asal tanaman sedap malam"
+},
+{ "data" : "Sejak kapan tanaman sedap malam digunakan sebagai parfum"
+},
+{ "data" : "Apa kegunaan tanaman sedap malam di india dan bangladesh"
+},
+{ "data" : "Apa kegunaan tanaman sedap malam di indonesia"
+},
+{ "data" : "Tanaman asoka sering diasosiasikan dengan apa"
+},
+{ "data" : "Apa kegunaan tanaman asoka"
+},
+{ "data" : "Apa itu tanaman petunia"
+},
+{ "data" : "Darimana asal tanaman petunia "
+},
+{ "data" : "Berapa tinggi tanaman petunia"
+},
+{ "data" : "Apa nama lain dari kamboja jepang"
+},
+{ "data" : "Apa nama ilmiah kamboja jepang"
+},
+{ "data" : "Darimana asal nama tanaman adenium"
+},
+{ "data" : "Siapa penemu bunga kamboja"
+},
+{ "data" : "Darimana asal tanaman kamboja"
+},
+{ "data" : "Apa kegunaan tanaman kamboja"
+},
+{ "data" : "Kenapa tanaman kamboja juga disebut pluemeria"
+},
+{ "data" : "Apa itu bambu"
+},
+{ "data" : "Apa itu bambu dalam bahasa jawa"
+},
+{ "data" : "Apa itu bambu dalam bahasa sunda"
+},
+{ "data" : "Apa itu bambu dalam bahasa ternate"
+},
+{ "data" : "Apa itu bambu dalam bahasa ambon"
+},
+{ "data" : "Apa kegunaan bambu"
+},
+{ "data" : "Bagaimana cara pembudidayaan bambu"
+},
+{ "data" : "Apa itu cemara"
+},
+{ "data" : "Apa saja jenis - jenis cemara"
+},
+{ "data" : "Apa itu daun beludru "
+},
+{ "data" : "Apa itu tanaman fittonia"
+},
+{ "data" : "Dari mana asal tanaman fittonia"
+},
+{ "data" : "Apa itu tanaman gladiol"
+},
+{ "data" : "Darimana asal tanaman gladiol"
+},
+{ "data" : "Dari mana asal nama tanaman gladiol"
+},
+{ "data" : "Apa saja jenis - jenis tanaman gladiol"
+},
+{ "data" : "Apa itu tanaman oxalis / daun asam kecil"
+},
+{ "data" : "Apa manfaat oxalis"
+},
+{ "data" : "Kenapa tanaman lidah mertua diberi sebutan lidah mertua"
+},
+{ "data" : "Apa keistimewaan tanaman lidah mertua"
+},
+{ "data" : "Darimana asal nama tanaman chinese money plant"
+},
+{ "data" : "Darimana asal tanaman chinese money plant"
+},
+{ "data" : "Apa nama lain tanaman chinese money plant"
+},
+{ "data" : "Apa yang bisa kamu lakukan"
+},
+{ "data" : "Halo"
+},
+{ "data" : "Hai"
+},
+{ "data" : "Siapa kamu"
+},
+{ "data" : "Apa kegunaan kamu"
+}
+]
