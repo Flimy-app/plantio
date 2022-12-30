@@ -90,7 +90,7 @@ def dice(sama, a, b):
 app = Flask(__name__)
 CORS(app, support_credentials=True)
 api = Api(app)
-# cors = CORS(app, resources={r"*": {"origins": "http://localhost:3000/Chatbot"}})
+# cors = CORS(app, resources={r"*": {"origins": "https://plantioapi.herokuapp.com"}})
 @app.route("/result", methods=['POST', 'GET'])
 # @cross_origin(supports_credentials=True)
 def chateraise():
