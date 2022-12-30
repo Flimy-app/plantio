@@ -31,7 +31,7 @@ var stylespan = {
             "query": rawText
         }
         document.getElementById("overlay").style.display = "flex";
-        var data = await axios.post("http://127.0.0.1:2000/result", request)
+        var data = await axios.post("https://plantioapi.herokuapp.com/result", request)
         .then((response)=>{
 
             console.log(response)
